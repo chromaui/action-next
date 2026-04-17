@@ -1,6 +1,6 @@
 {
   "name": "chromatic",
-  "version": "16.3.1--canary.44528a8.0",
+  "version": "16.3.1--canary.ce27530.0",
   "description": "Automate visual testing across browsers. Gather UI feedback. Versioned documentation.",
   "keywords": [
     "storybook-addon",
@@ -30,9 +30,9 @@
       "import": "./isChromatic.mjs"
     },
     "./node": {
-      "types": "./dist/node.d.ts",
-      "require": "./dist/node.js",
-      "node": "./dist/node.js"
+      "types": "./dist/node.d.cts",
+      "require": "./dist/node.cjs",
+      "node": "./dist/node.cjs"
     },
     "./isChromatic": {
       "types": "./isChromatic.d.ts",
@@ -52,18 +52,18 @@
         "./isChromatic.d.ts"
       ],
       "node": [
-        "dist/node.d.ts"
+        "dist/node.d.cts"
       ]
     }
   },
   "bin": {
-    "chroma": "dist/bin.js",
-    "chromatic": "dist/bin.js",
-    "chromatic-cli": "dist/bin.js"
+    "chroma": "dist/bin.cjs",
+    "chromatic": "dist/bin.cjs",
+    "chromatic-cli": "dist/bin.cjs"
   },
   "files": [
-    "dist/*.js",
-    "dist/node.d.ts",
+    "dist/*.cjs",
+    "dist/node.d.cts",
     "isChromatic.js",
     "isChromatic.mjs",
     "isChromatic.d.ts"
@@ -177,7 +177,7 @@
     "tmp-promise": "3.0.2",
     "ts-dedent": "^1.0.0",
     "ts-loader": "^9.2.5",
-    "tsup": "^7.2.0",
+    "tsdown": "^0.21.8",
     "typescript": "^5.2.2",
     "typescript-eslint": "^7.11.0",
     "util-deprecate": "^1.0.2",
