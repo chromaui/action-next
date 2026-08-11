@@ -1,6 +1,6 @@
 {
   "name": "chromatic",
-  "version": "18.1.1--canary.c760e9d.0",
+  "version": "18.2.1--canary.6a480b5.0",
   "description": "Automate visual testing across browsers. Gather UI feedback. Versioned documentation.",
   "keywords": [
     "storybook-addon",
@@ -73,6 +73,14 @@
     "es-toolkit": "1.46.0",
     "lodash": "4.17.21",
     "@types/minimatch": "5.1.2"
+  },
+  "dependenciesMeta": {
+    "@sentry/cli": {
+      "built": true
+    },
+    "esbuild": {
+      "built": true
+    }
   },
   "dependencies": {
     "semver": "^7.3.5"
