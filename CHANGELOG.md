@@ -1,3 +1,27 @@
+# v18.8.0 (Thu Sep 10 2026)
+
+#### 🚀 Enhancement
+
+- Set component owners if present [#1478](https://github.com/chromaui/chromatic-cli/pull/1478) ([@justin-thurman](https://github.com/justin-thurman))
+
+#### Authors: 1
+
+- Justin Thurman ([@justin-thurman](https://github.com/justin-thurman))
+
+---
+
+# v18.7.4 (Wed Sep 09 2026)
+
+#### 🐛 Bug Fix
+
+- Filter `.storybook/*.md` and `.storybook/*.txt` changes from TurboSnap v2 [#1482](https://github.com/chromaui/chromatic-cli/pull/1482) ([@codykaup](https://github.com/codykaup))
+
+#### Authors: 1
+
+- Cody Kaup ([@codykaup](https://github.com/codykaup))
+
+---
+
 # v18.7.3 (Wed Sep 09 2026)
 
 #### 🐛 Bug Fix
