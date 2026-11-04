@@ -1,6 +1,6 @@
 {
   "name": "chromatic",
-  "version": "18.14.1--canary.9e8366f.0",
+  "version": "18.14.1--canary.c22545d.0",
   "description": "Automate visual testing across browsers. Gather UI feedback. Versioned documentation.",
   "keywords": [
     "storybook-addon",
@@ -116,7 +116,7 @@
     "@types/semver": "^7.3.9",
     "@types/ws": "^8",
     "@types/yazl": "^3.3.0",
-    "@vitest/coverage-v8": "^4.1.2",
+    "@vitest/coverage-v8": "^5.0.5",
     "adm-zip": "^0.5.17",
     "ansi-html": "0.0.9",
     "any-observable": "^0.5.1",
@@ -181,7 +181,7 @@
     "uuid": "^14.0.3",
     "vite": "^8.0.3",
     "vite-tsconfig-paths": "^6.1.1",
-    "vitest": "^4.1.2",
+    "vitest": "^5.0.5",
     "wrap-ansi": "^10.0.0",
     "ws": "^8.18.2",
     "xxhash-wasm": "^1.0.2",
