@@ -1,6 +1,6 @@
 {
   "name": "chromatic",
-  "version": "18.14.4--canary.9c7a036.0",
+  "version": "18.14.4--canary.4890c05.0",
   "description": "Automate visual testing across browsers. Gather UI feedback. Versioned documentation.",
   "keywords": [
     "storybook-addon",
@@ -108,7 +108,7 @@
     "@types/fs-extra": "^11.0.4",
     "@types/jsonfile": "^6.0.1",
     "@types/listr": "^0.14.4",
-    "@types/mime-types": "^2.1.4",
+    "@types/mime-types": "^3.0.1",
     "@types/node": "18.x",
     "@types/picomatch": "^2.3.0",
     "@types/prompts": "^2.4.9",
@@ -152,7 +152,7 @@
     "listr": "0.14.3",
     "listr-update-renderer": "^0.5.0",
     "meow": "^14.1.0",
-    "mime-types": "^2.1.35",
+    "mime-types": "^3.0.2",
     "mock-fs": "^5.1.2",
     "no-proxy": "^1.0.3",
     "node-ask": "^1.0.1",
